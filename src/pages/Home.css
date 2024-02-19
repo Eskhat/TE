@@ -1,0 +1,77 @@
+.home_main {
+  position: relative;
+  padding: 150px 3%;
+}
+.home_text {
+  font-weight: 600;
+  font-size: 24px;
+  position: absolute;
+}
+.home_cards {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 5%;
+}
+.card_img {
+  width: 400px;
+}
+.card_texts {
+  text-align: left;
+  padding: 15px 10px;
+}
+.card_text1 {
+  color: #424242;
+  font-size: 20px;
+  padding-bottom: 5px;
+}
+.card_text2 {
+  color: #999999;
+  font-size: 16px;
+}
+.home_star {
+}
+.home_stars {
+  padding-bottom: 150px;
+  text-align: center;
+}
+.home_star_text2 {
+  font-size: 32px;
+  font-weight: 900;
+  padding-bottom: 10px;
+}
+.home_star_text3 {
+}
+.home_star_text4 {
+  font-size: 24px;
+  font-weight: 900;
+  border: 1px solid black;
+  width: 303px;
+  color: white;
+  background-color: black;
+  border-radius: 10px;
+  padding: 12px 1px;
+  margin: auto;
+}
+.footer_main {
+  background-color: black;
+  display: flex;
+  justify-content: space-between;
+  height: 239px;
+}
+.footer_company {
+  color: white;
+  padding: 20px 0;
+  text-align: left;
+}
+.footer_icons {
+  padding: 50px 50px;
+}
+.footer_company2 {
+  color: white;
+  padding: 20px 0px;
+  padding-right: 80px;
+  text-align: left;
+}
+.footer_text2 {
+  padding: 5px 0;
+}
